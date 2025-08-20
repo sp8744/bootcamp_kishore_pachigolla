@@ -1,0 +1,6 @@
+class_materials/
+
+__pycache__/
+*.pyc
+
+.env
